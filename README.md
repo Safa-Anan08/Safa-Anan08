@@ -1,4 +1,4 @@
-# Hi 👋, I'm Laamye Al Safa Anan
+# Hi 👋, I'm Safa Anan
 
 ### Junior Frontend Developer | Next.js & Flutter Developer
 
