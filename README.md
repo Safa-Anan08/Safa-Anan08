@@ -31,7 +31,7 @@ I am a passionate frontend developer skilled in Next.js, JavaScript, Flutter, an
 <img src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
   
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank">
+<a href="https://linkedin.com/in/safa-anan/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
   
